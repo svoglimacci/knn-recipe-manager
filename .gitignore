@@ -1,0 +1,9 @@
+node_modules
+*history/*
+*history\*
+*history
+*/*.history
+data.json
+generated-list.json
+/node_modules
+*.jsonnode_modules/
